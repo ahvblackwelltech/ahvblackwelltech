@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Hey, I'm Ahvi! I'm a Technical Project Manager who is passionate about creating technology that elevate people.
+- Hey, I'm Ahvi! I'm a Technical Project Manager/Data Scientist who is passionate about creating technology that elevate people.
 
 
 - 🔭 I’m currently working on ... Lambda School Labs
@@ -9,4 +9,4 @@
 - ⚡ Fun fact: ... I Like Turtles
 
 - Here's where you can find me :
-- LinkedIn  
+- Add Me On LinkedIn  
